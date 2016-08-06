@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title></title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="css/login.css">
+	<script type="text/javascript" src="js/jquery/jquery-3.1.0.min.js"></script>
+	<script type="text/javascript" src="js/login.js"></script>
+
+</head>
+<body>
+<!--action是直接带入url里面的-->
+	<form role="form">
+		<div class="loginForm">
+			<div class="usernameInput">
+				<label for="username">账号：</label>
+				<input type="text" name="username" value="root" id="username"/>		
+			</div>
+			<div class="passwordInput">
+				<label for="password">密码：</label>			
+				<input type="password" name="password" value="root" id="password"/>
+			</div>
+			<div class="errmsg" id="errmsg">
+				<i></i>
+			</div>
+			<div class="buttonGroup">
+					<button id="login" type="button">登录</button>
+					<button type="button" id="register">注册</button>
+			</div>
+		</div>
+	</form>
+
+</body>
+
+</html>

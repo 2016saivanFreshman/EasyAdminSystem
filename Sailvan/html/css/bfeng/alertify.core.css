@@ -1,0 +1,45 @@
+.alertify-show {
+	-webkit-transition: all 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275); -moz-transition: all 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275); -ms-transition: all 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275); -o-transition: all 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275); transition: all 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275)
+}
+.alertify-log {
+	-webkit-transition: all 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275); -moz-transition: all 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275); -ms-transition: all 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275); -o-transition: all 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275); transition: all 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275)
+}
+.alertify-hide {
+	-webkit-transition: all 250ms cubic-bezier(0.600, -0.280, 0.735, 0.045); -moz-transition: all 250ms cubic-bezier(0.600, -0.280, 0.735, 0.045); -ms-transition: all 250ms cubic-bezier(0.600, -0.280, 0.735, 0.045); -o-transition: all 250ms cubic-bezier(0.600, -0.280, 0.735, 0.045); transition: all 250ms cubic-bezier(0.600, -0.280, 0.735, 0.045)
+}
+.alertify-cover {
+	Z-INDEX: 99999; POSITION: fixed; BOTTOM: 0px; TOP: 0px; RIGHT: 0px; LEFT: 0px
+}
+.alertify {
+	Z-INDEX: 99999; POSITION: fixed; WIDTH: 550px; MARGIN-LEFT: -275px; TOP: 180px; LEFT: 50%
+}
+.alertify-hidden {
+	VISIBILITY: hidden; TOP: -50px
+}
+.alertify-logs {
+	Z-INDEX: 5000; POSITION: fixed; WIDTH: 300px; BOTTOM: 10px; RIGHT: 10px
+}
+.alertify-log {
+	POSITION: relative; MARGIN-TOP: 10px; DISPLAY: block; RIGHT: -300px
+}
+.alertify-log-show {
+	RIGHT: 0px
+}
+.alertify-dialog {
+	PADDING-BOTTOM: 25px; PADDING-LEFT: 25px; PADDING-RIGHT: 25px; PADDING-TOP: 25px
+}
+.alertify-resetFocus {
+	CLIP: rect(0px 0px 0px 0px); BORDER-BOTTOM: 0px; POSITION: absolute; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: -1px; PADDING-LEFT: 0px; WIDTH: 1px; PADDING-RIGHT: 0px; HEIGHT: 1px; OVERFLOW: hidden; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.alertify-inner {
+	TEXT-ALIGN: center
+}
+.alertify-text {
+	BOX-SIZING: border-box; WIDTH: 100%; MARGIN-BOTTOM: 15px; FONT-SIZE: 100%; -webkit-box-sizing: border-box; -moz-box-sizing: border-box
+}
+.alertify-buttons {
+	
+}
+.alertify-button {
+	LINE-HEIGHT: 1.5; DISPLAY: inline-block; MARGIN-LEFT: 5px; FONT-SIZE: 100%; CURSOR: pointer
+}

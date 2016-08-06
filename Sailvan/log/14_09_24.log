@@ -1,0 +1,2 @@
+[ 2014-09-24T16:37:28+08:00 ] /index.php?mod=test&act=index&page=3 | ERR: message : MySQL Query Error, sql: SELECT * FROM om_test1 WHERE 1 ORDER BY id LIMIT 100
+

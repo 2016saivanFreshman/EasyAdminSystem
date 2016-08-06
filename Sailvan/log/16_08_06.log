@@ -1,0 +1,2 @@
+[ 2016-08-06T15:57:57+08:00 ] /index.php?mod=user&act=index | ERR: [2] filemtime(): stat failed for D:/EasyAdminSystem/Sailvan/smarty/templates_c\24a20927c6c2154c961643e45cc88354319f2d1a.file.login.html.php smarty_resource.php 第 720 行.
+[ 2016-08-06T15:57:57+08:00 ] /index.php?mod=user&act=index | ERR: [2] unlink(D:/EasyAdminSystem/Sailvan/smarty/templates_c\24a20927c6c2154c961643e45cc88354319f2d1a.file.login.html.php): No such file or directory smarty_internal_write_file.php 第 57 行.

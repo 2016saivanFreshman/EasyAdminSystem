@@ -1,0 +1,29 @@
+[ 2014-09-19T09:21:08+08:00 ] / | ERR: [2] mysql_connect(): Access denied for user 'valsun'@'localhost' (using password: YES) mysql.php 第 11 行.
+[ 2014-09-19T09:21:08+08:00 ] / | ERR: message : Can not connect to MySQL server
+
+[ 2014-09-19T09:43:09+08:00 ] /index.php?mod=tests&act=index | ERR: message : MySQL Query Error, sql: SELECT  *  FROM `om_tests` WHERE  `is_delete` = '0' ORDER BY `id` DESC LIMIT 0,10
+
+[ 2014-09-19T09:50:37+08:00 ] /index.php?mod=tests&act=index | ERR: message : MySQL Query Error, sql: SELECT  *  FROM `om_tests` WHERE  `is_delete` = '0' ORDER BY `id` DESC LIMIT 0,10
+
+[ 2014-09-19T09:52:48+08:00 ] /index.php?mod=tests&act=index | ERR: message : MySQL Query Error, sql: SELECT  *  FROM `om_tests` WHERE  `is_delete` = '0' ORDER BY `id` DESC LIMIT 0,10
+
+[ 2014-09-19T09:54:20+08:00 ] /index.php?mod=tests&act=index | ERR: message : MySQL Query Error, sql: SELECT  *  FROM `om_tests` WHERE  `is_delete` = '0' ORDER BY `id` DESC LIMIT 0,10
+
+[ 2014-09-19T10:25:37+08:00 ] /index.php?mod=tests&act=index | ERR: [2] filemtime(): stat failed for E:/xampp/htdocs/sailvan/smarty/templates_c\a774cca7629562131c2ce955fdde107a31af2330.file.index.html.php smarty_resource.php 第 720 行.
+[ 2014-09-19T10:25:37+08:00 ] /index.php?mod=tests&act=index | ERR: [2] unlink(E:/xampp/htdocs/sailvan/smarty/templates_c\a774cca7629562131c2ce955fdde107a31af2330.file.index.html.php): No such file or directory smarty_internal_write_file.php 第 57 行.
+[ 2014-09-19T10:27:10+08:00 ] /index.php?mod=tests&act=index | ERR: [2] filemtime(): stat failed for E:/xampp/htdocs/sailvan/smarty/templates_c\a774cca7629562131c2ce955fdde107a31af2330.file.index.html.php smarty_resource.php 第 720 行.
+[ 2014-09-19T10:27:10+08:00 ] /index.php?mod=tests&act=index | ERR: [2] unlink(E:/xampp/htdocs/sailvan/smarty/templates_c\a774cca7629562131c2ce955fdde107a31af2330.file.index.html.php): No such file or directory smarty_internal_write_file.php 第 57 行.
+[ 2014-09-19T11:22:53+08:00 ] /index.php?mod=tests&act=save | ERR: [2] filemtime(): stat failed for E:/xampp/htdocs/sailvan/smarty/templates_c\722f93acd85bd4176a9cd3270a8c7929e9bc928a.file.success_jump.html.php smarty_resource.php 第 720 行.
+[ 2014-09-19T11:22:53+08:00 ] /index.php?mod=tests&act=save | ERR: [2] unlink(E:/xampp/htdocs/sailvan/smarty/templates_c\722f93acd85bd4176a9cd3270a8c7929e9bc928a.file.success_jump.html.php): No such file or directory smarty_internal_write_file.php 第 57 行.
+[ 2014-09-19T11:25:21+08:00 ] /index.php?mod=tests&act=edit | ERR: [2] filemtime(): stat failed for E:/xampp/htdocs/sailvan/smarty/templates_c\e93a1abce907b5c5cecc2d074a0eaa6b3d8a7d21.file.edit.html.php smarty_resource.php 第 720 行.
+[ 2014-09-19T11:25:21+08:00 ] /index.php?mod=tests&act=edit | ERR: [2] unlink(E:/xampp/htdocs/sailvan/smarty/templates_c\e93a1abce907b5c5cecc2d074a0eaa6b3d8a7d21.file.edit.html.php): No such file or directory smarty_internal_write_file.php 第 57 行.
+[ 2014-09-19T17:30:27+08:00 ] /index.php?mod=test&act=index | ERR: [2] filemtime(): stat failed for E:/xampp/htdocs/sailvan/smarty/templates_c\af7ff328607b1a141ddd59ec5afb3c336569b9d6.file.index.html.php smarty_resource.php 第 720 行.
+[ 2014-09-19T17:30:27+08:00 ] /index.php?mod=test&act=index | ERR: [2] unlink(E:/xampp/htdocs/sailvan/smarty/templates_c\af7ff328607b1a141ddd59ec5afb3c336569b9d6.file.index.html.php): No such file or directory smarty_internal_write_file.php 第 57 行.
+[ 2014-09-19T17:31:11+08:00 ] /index.php?mod=test&act=index | ERR: [2] filemtime(): stat failed for E:/xampp/htdocs/sailvan/smarty/templates_c\af7ff328607b1a141ddd59ec5afb3c336569b9d6.file.index.html.php smarty_resource.php 第 720 行.
+[ 2014-09-19T17:31:11+08:00 ] /index.php?mod=test&act=index | ERR: [2] unlink(E:/xampp/htdocs/sailvan/smarty/templates_c\af7ff328607b1a141ddd59ec5afb3c336569b9d6.file.index.html.php): No such file or directory smarty_internal_write_file.php 第 57 行.
+[ 2014-09-19T17:32:24+08:00 ] /index.php?mod=test&act=save | ERR: message : MySQL Query Error, sql: SELECT errormsg FROM om_prompt_msg WHERE id=200
+
+[ 2014-09-19T17:33:36+08:00 ] /index.php?mod=test&act=save | ERR: message : MySQL Query Error, sql: SELECT errormsg FROM om_prompt_msg WHERE id=200
+
+[ 2014-09-19T17:45:35+08:00 ] /index.php?mod=test&act=save | ERR: [2] filemtime(): stat failed for E:/xampp/htdocs/sailvan/smarty/templates_c\943a33c31c8d573788bb4fe02e12ff9d4f3c2910.file.error_jump.html.php smarty_resource.php 第 720 行.
+[ 2014-09-19T17:45:35+08:00 ] /index.php?mod=test&act=save | ERR: [2] unlink(E:/xampp/htdocs/sailvan/smarty/templates_c\943a33c31c8d573788bb4fe02e12ff9d4f3c2910.file.error_jump.html.php): No such file or directory smarty_internal_write_file.php 第 57 行.

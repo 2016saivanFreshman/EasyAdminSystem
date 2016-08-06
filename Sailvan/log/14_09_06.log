@@ -1,0 +1,33 @@
+[ 2014-09-06T09:53:29+08:00 ] /index.php?mod=tests&act=index | ERR: [2] mysql_connect(): Access denied for user 'valsun'@'localhost' (using password: YES) mysql.php 第 11 行.
+[ 2014-09-06T09:53:29+08:00 ] /index.php?mod=tests&act=index | ERR: message : Can not connect to MySQL server
+
+[ 2014-09-06T09:54:25+08:00 ] /index.php?mod=tests&act=index | ERR: [2] register_shutdown_function(): Invalid shutdown callback 'TestsAct::__destruct' passed common.action.php 第 18 行.
+[ 2014-09-06T10:11:32+08:00 ] /index.php?mod=tests&act=index | ERR: [2] filemtime(): stat failed for F:/Workspace/Sailvan/smarty/templates_c\078d60e12065d13f7a12c78476ac42c6604e0b9b.file.index.html.php smarty_resource.php 第 720 行.
+[ 2014-09-06T10:11:32+08:00 ] /index.php?mod=tests&act=index | ERR: [2] unlink(F:/Workspace/Sailvan/smarty/templates_c\078d60e12065d13f7a12c78476ac42c6604e0b9b.file.index.html.php): No such file or directory smarty_internal_write_file.php 第 57 行.
+[ 2014-09-06T10:28:16+08:00 ] /index.php?mod=tests&act=edit&id=15 | ERR: [2] filemtime(): stat failed for F:/Workspace/Sailvan/smarty/templates_c\f3684e0e7ed12b5a06c658364d9d35ebc7707994.file.edit.html.php smarty_resource.php 第 720 行.
+[ 2014-09-06T10:28:16+08:00 ] /index.php?mod=tests&act=edit&id=15 | ERR: [2] unlink(F:/Workspace/Sailvan/smarty/templates_c\f3684e0e7ed12b5a06c658364d9d35ebc7707994.file.edit.html.php): No such file or directory smarty_internal_write_file.php 第 57 行.
+[ 2014-09-06T14:45:49+08:00 ] /index.php?mod=tests&act=delete&id=10 | ERR: [2] filemtime(): stat failed for F:/Workspace/Sailvan/smarty/templates_c\c938d4c222f87da9fe7ee349a011a45f8f856051.file.success_jump.html.php smarty_resource.php 第 720 行.
+[ 2014-09-06T14:45:49+08:00 ] /index.php?mod=tests&act=delete&id=10 | ERR: [2] unlink(F:/Workspace/Sailvan/smarty/templates_c\c938d4c222f87da9fe7ee349a011a45f8f856051.file.success_jump.html.php): No such file or directory smarty_internal_write_file.php 第 57 行.
+[ 2014-09-06T15:31:30+08:00 ] /index.php?mod=tests&act=index | ERR: [2] mysql_fetch_array() expects parameter 1 to be resource, string given mysql.php 第 37 行.
+[ 2014-09-06T15:40:10+08:00 ] /index.php?mod=tests&act=index | ERR: message : MySQL Query Error, sql: SELECT  *  FROM `om_tests` WHERE  `is_delete` = '0' ORDER BYLIMIT 0,10
+
+[ 2014-09-06T15:40:43+08:00 ] /index.php?mod=tests&act=index | ERR: message : MySQL Query Error, sql: SELECT  *  FROM `om_tests` WHERE  `is_delete` = '0' ORDER BY `id` DESCLIMIT 0,10
+
+[ 2014-09-06T16:01:11+08:00 ] /index.php?mod=tests&act=index | ERR: [2] Missing argument 1 for mysql::fetch_first(), called in F:\Workspace\Sailvan\model\common.model.php on line 261 and defined mysql.php 第 57 行.
+[ 2014-09-06T16:01:11+08:00 ] /index.php?mod=tests&act=index | ERR: message : MySQL Query Error
+
+[ 2014-09-06T16:02:04+08:00 ] /index.php?mod=tests&act=index | ERR: [2] Missing argument 1 for mysql::fetch_first(), called in F:\Workspace\Sailvan\model\common.model.php on line 262 and defined mysql.php 第 57 行.
+[ 2014-09-06T16:02:04+08:00 ] /index.php?mod=tests&act=index | ERR: message : MySQL Query Error
+
+[ 2014-09-06T16:04:45+08:00 ] /index.php?mod=tests&act=index | ERR: [2] Missing argument 1 for mysql::fetch_first(), called in F:\Workspace\Sailvan\model\common.model.php on line 260 and defined mysql.php 第 57 行.
+[ 2014-09-06T16:04:45+08:00 ] /index.php?mod=tests&act=index | ERR: message : MySQL Query Error
+
+[ 2014-09-06T16:05:00+08:00 ] /index.php?mod=tests&act=index | ERR: [2] Missing argument 1 for mysql::fetch_first(), called in F:\Workspace\Sailvan\model\common.model.php on line 260 and defined mysql.php 第 57 行.
+[ 2014-09-06T16:05:00+08:00 ] /index.php?mod=tests&act=index | ERR: message : MySQL Query Error
+
+[ 2014-09-06T16:05:49+08:00 ] /index.php?mod=tests&act=index | ERR: [2] Missing argument 1 for mysql::fetch_first(), called in F:\Workspace\Sailvan\model\common.model.php on line 260 and defined mysql.php 第 57 行.
+[ 2014-09-06T16:05:49+08:00 ] /index.php?mod=tests&act=index | ERR: message : MySQL Query Error
+
+[ 2014-09-06T16:51:04+08:00 ] /index.php?mod=tests&act=index | ERR: [2] Missing argument 1 for mysql::fetch_first(), called in F:\Workspace\Sailvan\model\common.model.php on line 260 and defined mysql.php 第 57 行.
+[ 2014-09-06T16:51:04+08:00 ] /index.php?mod=tests&act=index | ERR: message : MySQL Query Error
+

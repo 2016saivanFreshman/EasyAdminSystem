@@ -1,0 +1,98 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0050)http://wh.valsun.cn/index.php -->
+<HTML xmlns="http://www.w3.org/1999/xhtml"><HEAD><TITLE>用户登录</TITLE>
+<META content="text/html; charset=utf-8" http-equiv="Content-Type">
+<SCRIPT language="javascript" src="/html/js/bfeng/jquery-1.8.3.js"></SCRIPT>
+<SCRIPT language="javascript" src="/html/js/bfeng/alertify.min.js"></SCRIPT>
+<LINK rel="stylesheet" type=text/css href="/html/css/bfeng/style.css">
+<LINK rel="stylesheet" href="/html/css/bfeng/alertify.core.css">
+<LINK rel="stylesheet" href="/html/css/bfeng/alertify.default.css">
+<META name="GENERATOR" content="MSHTML 8.00.7601.17514">
+</HEAD>
+<BODY class="loginbody">
+<DIV class="loginmain">
+	<DIV class="box">
+		<DIV class="loginlogo">
+			<P>华成平台 </P>
+		</DIV>
+		<DIV class="userlogin">
+			<FORM onsubmit="return check();" name="inform" action="/index.php?mod=tests&act=save" method="post">
+			<input type="hidden" name="id" value="{$tests.id}" id="id"/>
+				<TABLE>
+					<TBODY>
+						<TR>
+							<TD><SPAN>名称：</SPAN> <SPAN  style="FLOAT: right; COLOR: #f00; FONT-SIZE: 12px" id="tips-name"></SPAN><input type="hidden" name="checked" value="0" id="checked"/></TD>
+						</TR>
+						<TR>
+							<TD><INPUT id="name" type="text" name="name" value="{$tests.name}"> </TD>
+						</TR>
+						<TR>
+							<TD><SPAN>值：</SPAN> <SPAN style="FLOAT: right; COLOR: #f00; FONT-SIZE: 12px" id="tips-zhi"></SPAN></TD>
+						</TR>
+						<TR>
+							<TD><INPUT id="zhi" type="text" name="zhi" value="{$tests.value}"></TD>
+						</TR>
+						<TR>
+							<TD class="go"><INPUT id="login-btn" value="保存" type="submit"></TD>
+						</TR>
+					</TBODY>
+				</TABLE>
+			</FORM>
+		</DIV>
+	</DIV>
+</DIV>
+
+{literal}
+<SCRIPT>
+$(function(){
+	$("#name").focus();
+})
+
+$("#name").change(function(e){
+	var name;
+	var id;
+	name = $.trim($("#name").val());
+	id = $.trim($("#id").val());
+	
+	if (name == '') {
+		$("#tips-name").html("名称不能为空!");
+		$("#name").focus();
+		return false;
+	} else {
+		$("#tips-name").html("");
+	}
+	
+	$.post("index.php?mod=tests&act=checkName",{"id":id, "name":name},function(res){
+		if($.trim(res) == "ok"){
+			alertify.success("该名称可用，请继续添加。");
+			$("#tips-name").html("名称可用!");
+			$("#checked").val(1);
+			//window.setTimeout(window.location.href = "index.php?mod=tests&act=index",1000);        
+		}else {
+			alertify.error("亲,名称已存在哦。请换个名称吧！");  
+			$("#tips-name").html("名称已存在!");
+			$("#name").val("");
+			$("#checked").val(0);
+			$("#name").focus();
+		}
+	});
+});
+
+
+function check(){
+	var name, zhi, checked;
+	name = $.trim($("#name").val());
+	zhi = $.trim($("#zhi").val());
+	checked = $.trim($("#checked").val());
+	
+	if (checked == "1" && name.length > 0 && zhi.length > 0) document.infrom.submit();
+	else {
+		alertify.error("亲，校验未通过哦。请确认下相应字段是否都填写了呢？");
+		return false;
+	}
+}
+</SCRIPT>
+{/literal}
+
+</BODY>
+</HTML>

@@ -1,0 +1,35 @@
+.loginForm{
+	background-color:gray;
+	width:300px;
+	height: 200px;
+	position:absolute;
+	left:50%;
+	top:50%;
+	margin:-100px 0 0 -150px;
+	font-size:1.5em;
+	font-family: "楷体"；
+}
+
+.usernameInput{
+	margin-top:20px;
+	margin-left: 20px;
+}
+
+.passwordInput{
+	margin-top:20px;
+	margin-left: 20px;
+}
+
+.buttonGroup{
+	margin-top: 30px;
+	margin-left:30% ;
+	position:absolute;
+	text-align: center;
+}
+
+.errmsg{
+	color:red;
+	font-size: 1em;
+	margin-left: 100px;
+	position: absolute;
+}

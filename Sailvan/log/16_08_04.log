@@ -1,0 +1,93 @@
+[ 2016-08-04T11:22:12+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: message : MySQL Query Error, sql: SELECT * FROM `om_from_open_config` WHERE 1  AND is_delete='0' order by id desc LIMIT 0, 10
+
+[ 2016-08-04T11:22:13+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: message : MySQL Query Error, sql: SELECT * FROM `om_from_open_config` WHERE 1  AND is_delete='0' order by id desc LIMIT 0, 10
+
+[ 2016-08-04T11:22:13+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: message : MySQL Query Error, sql: SELECT * FROM `om_from_open_config` WHERE 1  AND is_delete='0' order by id desc LIMIT 0, 10
+
+[ 2016-08-04T11:22:13+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: message : MySQL Query Error, sql: SELECT * FROM `om_from_open_config` WHERE 1  AND is_delete='0' order by id desc LIMIT 0, 10
+
+[ 2016-08-04T16:08:46+08:00 ] /index.php?mod=user&act=register | ERR: [2] preg_match(): Unknown modifier 'w' user.view.php 第 53 行.
+[ 2016-08-04T16:09:19+08:00 ] /index.php?mod=user&act=register | ERR: [2] preg_match(): Unknown modifier 'w' user.view.php 第 53 行.
+[ 2016-08-04T16:10:42+08:00 ] /index.php?mod=user&act=register | ERR: [2] preg_match(): Unknown modifier 'w' user.view.php 第 52 行.
+[ 2016-08-04T17:47:32+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: message : MySQL Query Error, sql: SELECT * FROM `om_from_open_config` WHERE 1  AND is_delete='0' order by id desc LIMIT 0, 10
+
+[ 2016-08-04T17:47:33+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: message : MySQL Query Error, sql: SELECT * FROM `om_from_open_config` WHERE 1  AND is_delete='0' order by id desc LIMIT 0, 10
+
+[ 2016-08-04T17:47:34+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: message : MySQL Query Error, sql: SELECT * FROM `om_from_open_config` WHERE 1  AND is_delete='0' order by id desc LIMIT 0, 10
+
+[ 2016-08-04T17:47:34+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: message : MySQL Query Error, sql: SELECT * FROM `om_from_open_config` WHERE 1  AND is_delete='0' order by id desc LIMIT 0, 10
+
+[ 2016-08-04T17:47:35+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: message : MySQL Query Error, sql: SELECT * FROM `om_from_open_config` WHERE 1  AND is_delete='0' order by id desc LIMIT 0, 10
+
+[ 2016-08-04T17:47:35+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: message : MySQL Query Error, sql: SELECT * FROM `om_from_open_config` WHERE 1  AND is_delete='0' order by id desc LIMIT 0, 10
+
+[ 2016-08-04T17:47:36+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: message : MySQL Query Error, sql: SELECT * FROM `om_from_open_config` WHERE 1  AND is_delete='0' order by id desc LIMIT 0, 10
+
+[ 2016-08-04T17:47:36+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: message : MySQL Query Error, sql: SELECT * FROM `om_from_open_config` WHERE 1  AND is_delete='0' order by id desc LIMIT 0, 10
+
+[ 2016-08-04T17:47:36+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: message : MySQL Query Error, sql: SELECT * FROM `om_from_open_config` WHERE 1  AND is_delete='0' order by id desc LIMIT 0, 10
+
+[ 2016-08-04T17:47:37+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: message : MySQL Query Error, sql: SELECT * FROM `om_from_open_config` WHERE 1  AND is_delete='0' order by id desc LIMIT 0, 10
+
+[ 2016-08-04T17:47:37+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: message : MySQL Query Error, sql: SELECT * FROM `om_from_open_config` WHERE 1  AND is_delete='0' order by id desc LIMIT 0, 10
+
+[ 2016-08-04T17:47:37+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: message : MySQL Query Error, sql: SELECT * FROM `om_from_open_config` WHERE 1  AND is_delete='0' order by id desc LIMIT 0, 10
+
+[ 2016-08-04T17:47:37+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: message : MySQL Query Error, sql: SELECT * FROM `om_from_open_config` WHERE 1  AND is_delete='0' order by id desc LIMIT 0, 10
+
+[ 2016-08-04T17:51:39+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/smarty/templates_c\9855886f96ae67161b7287ab17b32e4616aa2cd9.file.fromOpenConfig.html.php smarty_resource.php 第 720 行.
+[ 2016-08-04T17:51:39+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] unlink(D:/Sailvan/smarty/templates_c\9855886f96ae67161b7287ab17b32e4616aa2cd9.file.fromOpenConfig.html.php): No such file or directory smarty_internal_write_file.php 第 57 行.
+[ 2016-08-04T17:51:39+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template\backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T17:51:39+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T17:51:41+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template\backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T17:51:41+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T17:51:42+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template\backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T17:51:42+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T17:51:43+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template\backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T17:51:43+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T17:51:43+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template\backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T17:51:43+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T17:51:43+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template\backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T17:51:43+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T17:51:43+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template\backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T17:51:43+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T17:51:43+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template\backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T17:51:43+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T17:51:43+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template\backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T17:51:43+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T17:51:45+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template\backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T17:51:45+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:01:36+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template\backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:01:36+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:01:36+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template\backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:01:36+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:01:37+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template\backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:01:37+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:01:37+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template\backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:01:37+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:01:37+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template\backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:01:37+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:01:38+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template\backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:01:38+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:01:38+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template\backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:01:38+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:04:50+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template\backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:04:50+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:04:50+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template\backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:04:50+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:04:51+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template\backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:04:51+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:04:51+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template\backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:04:51+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:04:51+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template\backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:04:51+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:05:16+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template\backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:05:16+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:05:16+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template\backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:05:16+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:05:16+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template\backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:05:16+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:05:16+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template\backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:05:16+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:05:16+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template\backstagesHead.html smarty_resource.php 第 349 行.
+[ 2016-08-04T18:05:16+08:00 ] /index.php?mod=fromOpenConfig&act=index | ERR: [2] filemtime(): stat failed for backstagesHead.html smarty_resource.php 第 349 行.

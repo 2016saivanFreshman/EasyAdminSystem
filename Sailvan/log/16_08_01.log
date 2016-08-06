@@ -1,0 +1,6 @@
+[ 2016-08-01T14:51:24+08:00 ] /index.php?mod=user&act=login | ERR: message : MySQL Query Error, sql: SELECT username,password FROM `om_user` WHERE 1 AND `username`='啊发大水法' AND `password`='root' order by id desc LIMIT 0, 20
+
+[ 2016-08-01T17:32:24+08:00 ] /index.php?mod=user&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/smarty/templates_c\1983cc3ef9a3bf24147015806fb4108fcc7985fb.file.login.html.php smarty_resource.php 第 720 行.
+[ 2016-08-01T17:32:24+08:00 ] /index.php?mod=user&act=index | ERR: [2] unlink(D:/Sailvan/smarty/templates_c\1983cc3ef9a3bf24147015806fb4108fcc7985fb.file.login.html.php): No such file or directory smarty_internal_write_file.php 第 57 行.
+[ 2016-08-01T17:33:34+08:00 ] /index.php?mod=user&act=realLogin | ERR: [2] filemtime(): stat failed for D:/Sailvan/smarty/templates_c\05e6fc6b969c4981707f9b6e0ef541d3e669460b.file.userlist.html.php smarty_resource.php 第 720 行.
+[ 2016-08-01T17:33:34+08:00 ] /index.php?mod=user&act=realLogin | ERR: [2] unlink(D:/Sailvan/smarty/templates_c\05e6fc6b969c4981707f9b6e0ef541d3e669460b.file.userlist.html.php): No such file or directory smarty_internal_write_file.php 第 57 行.

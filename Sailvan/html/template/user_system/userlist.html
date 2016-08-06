@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="css/tableFormat.css">
+	<script type="text/javascript" src="js/jquery/jquery-3.1.0.min.js"></script>
+	<script type="text/javascript" src="js/userInfo.js"></script>
+	
+</head>
+<body>
+欢迎:{$smarty.session.username}
+<h1 style="text-align:center">用户列表</h1>
+<div class="tablePosition">
+	<table class="table">
+ 	  	
+ 	  	<thead>
+	      <tr>
+	         <th>id</th>
+	         <th>username</th>
+	         <th></th>
+	      </tr>
+ 	  	</thead>
+	 	<tbody>
+		    {foreach from=$userlist item=user key=key}
+		    	<tr>
+		    		<td>{$user->id}</td>
+		    		<td>{$user->username}</td>
+		    		<td><a href="index.php?mod=user&act=information&userid={$user->id}">编辑</td>
+		    	</tr>
+		    {/foreach}
+	 	</tbody>
+	 	<tfoot>
+	 	</tfoot>
+	</table>
+</div>
+<div class="listPostion">
+	<ul>
+		{section name=loop loop=$pagenum}
+			<li><a href="index.php?mod=user&act=realLogin&page={$smarty.section.loop.index + 1}">{$smarty.section.loop.index + 1}</a></li>
+		{/section}
+	</ul>
+</div>
+
+<button type="button" id="getInfoThroughApi">从开放系统获取货品信息</button>
+</body>
+</html>

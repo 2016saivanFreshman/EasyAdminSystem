@@ -1,0 +1,60 @@
+[ 2016-07-27T15:11:12+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template/v1\user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T15:11:12+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T15:14:33+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template/v1\user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T15:14:33+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T15:14:34+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template/v1\user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T15:14:34+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T15:14:34+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template/v1\user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T15:14:34+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T15:14:34+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template/v1\user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T15:14:34+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T15:14:35+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template/v1\user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T15:14:35+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T15:14:35+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template/v1\user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T15:14:35+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T15:14:35+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template/v1\user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T15:14:35+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T15:14:36+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template/v1\user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T15:14:36+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T15:14:36+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template/v1\user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T15:14:36+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T15:14:37+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template/v1\user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T15:14:37+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T15:17:33+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template/v1\user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T15:17:33+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T15:17:36+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template/v1\user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T15:17:36+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T15:17:37+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template/v1\user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T15:17:37+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T15:19:02+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/smarty/templates_c\1983cc3ef9a3bf24147015806fb4108fcc7985fb.file.login.html.php smarty_resource.php 第 720 行.
+[ 2016-07-27T15:19:03+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] unlink(D:/Sailvan/smarty/templates_c\1983cc3ef9a3bf24147015806fb4108fcc7985fb.file.login.html.php): No such file or directory smarty_internal_write_file.php 第 57 行.
+[ 2016-07-27T15:23:07+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template/v1\user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T15:23:07+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T15:23:08+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for D:/Sailvan/html/template/v1\user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T15:23:08+08:00 ] /index.php?mod=userlogin&act=index | ERR: [2] filemtime(): stat failed for user_system\login.html smarty_resource.php 第 349 行.
+[ 2016-07-27T17:24:51+08:00 ] /index.php?mod=userlogin&act=login | ERR: [2] filemtime(): stat failed for D:/Sailvan/smarty/templates_c\05e6fc6b969c4981707f9b6e0ef541d3e669460b.file.userlist.html.php smarty_resource.php 第 720 行.
+[ 2016-07-27T17:24:51+08:00 ] /index.php?mod=userlogin&act=login | ERR: [2] unlink(D:/Sailvan/smarty/templates_c\05e6fc6b969c4981707f9b6e0ef541d3e669460b.file.userlist.html.php): No such file or directory smarty_internal_write_file.php 第 57 行.
+[ 2016-07-27T21:02:30+08:00 ] /index.php?mod=user&act=login | ERR: message : MySQL Query Error, sql: SELECT username , password FROM om_user WHERE username = root AND password = root
+
+[ 2016-07-27T21:02:41+08:00 ] /index.php?mod=user&act=login | ERR: message : MySQL Query Error, sql: SELECT username , password FROM om_user WHERE username = root AND password = root
+
+[ 2016-07-27T21:18:13+08:00 ] /index.php?mod=user&act=login | ERR: message : MySQL Query Error, sql: SELECT root FROM `om_user` WHERE 1 order by id desc LIMIT 0, 20
+
+[ 2016-07-27T21:18:30+08:00 ] /index.php?mod=user&act=login | ERR: message : MySQL Query Error, sql: SELECT root FROM `om_user` WHERE 1 order by id desc LIMIT 0, 20
+
+[ 2016-07-27T21:18:38+08:00 ] /index.php?mod=user&act=login | ERR: message : MySQL Query Error, sql: SELECT root FROM `om_user` WHERE 1 order by id desc LIMIT 0, 20
+
+[ 2016-07-27T21:19:18+08:00 ] /index.php?mod=user&act=login | ERR: message : MySQL Query Error, sql: SELECT root FROM `om_user` WHERE 1 order by id desc LIMIT 0, 20
+
+[ 2016-07-27T21:34:58+08:00 ] /index.php?mod=user&act=login | ERR: message : MySQL Query Error, sql: SELECT `username`,`password` FROM `om_user` WHERE  AND `username`='root' AND `password`='root' order by id desc LIMIT 0, 20
+
+[ 2016-07-27T21:35:46+08:00 ] /index.php?mod=user&act=login | ERR: message : MySQL Query Error, sql: SELECT username`,`password FROM `om_user` WHERE  AND `username`='root' AND `password`='root' order by id desc LIMIT 0, 20
+
+[ 2016-07-27T21:35:55+08:00 ] /index.php?mod=user&act=login | ERR: message : MySQL Query Error, sql: SELECT username,password FROM `om_user` WHERE  AND `username`='root' AND `password`='root' order by id desc LIMIT 0, 20
+
+[ 2016-07-27T21:37:22+08:00 ] /index.php?mod=user&act=login | ERR: message : MySQL Query Error, sql: SELECT username,password FROM `om_user` WHERE 1 AND `username`='阿迪发大水法' AND `password`='发大水法' order by id desc LIMIT 0, 20
+
+[ 2016-07-27T21:37:38+08:00 ] /index.php?mod=user&act=login | ERR: message : MySQL Query Error, sql: SELECT username,password FROM `om_user` WHERE 1 AND `username`='阿迪发大水法' AND `password`='fdasfads' order by id desc LIMIT 0, 20
+
+[ 2016-07-27T21:37:42+08:00 ] /index.php?mod=user&act=login | ERR: message : MySQL Query Error, sql: SELECT username,password FROM `om_user` WHERE 1 AND `username`='阿迪发大水法' AND `password`='54354354' order by id desc LIMIT 0, 20
+

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="css/tableFormat.css">
+	<script type="text/javascript" src="js/jquery/jquery-3.1.0.min.js"></script>
+	<script type="text/javascript" src="js/userInfo.js"></script>
+</head>
+<body>
+
+欢迎:{$smarty.session.username}
+	<form>
+	<div>
+		<table class="table">
+			<thead>
+				<th>&nbsp</th>
+				<th>&nbsp</th>
+			</thead>
+			<tbody>
+				<tr>
+					<input hidden name="id" value="{$user->id}" id="id"/>
+					<td><label for="username">Username:</label></td>
+					<td style="text-align:left" width="50px"><input type="text" name="username" id="username" value="{$user->username}" disabled /></td>
+				</tr>
+
+				<tr>
+					<td><label for="password">Password:</label></td>
+					<td style="text-align:left"><input type="password" name="password" id="password" value="{$user->password}"/></td>
+				</tr>
+
+				<tr>
+					<td><label for="name">Name:</label></td>
+					<td style="text-align:left"><input type="text" name="name" id="name" value="{$user->name}"/></td>
+				</tr>
+
+				<tr>
+					<td><label for="sex">Sex:</label></td>
+					<td style="text-align:left"><input type="radio" name="sex" id="sex" value="male" checked="checked"/>男
+					<input type="radio" name="sex" value="female"/>女</td>
+				</tr>
+
+				<tr>
+					<td><label for="age">Age:</label></td>
+					<td style="text-align:left"><input type="text" name="age" id="age" value="{$user->age}"/></td>
+				</tr>
+
+				<tr>
+					<td><label for="introduction">Introduction:</label></td>
+					<td style="text-align:left"><textarea id="introduction" name="introduction">{$user->introduction}</textarea></td>
+				</tr>
+
+				<tr>
+					<td><label for="picture">Picture:</label></td>
+					<td style="text-align:left"><input type="file" name="picture" id="picture" value="{$user->picture}"/></td>
+				</tr>
+			</tbody>
+			<tfoot>
+				<tr>
+					<td colspan="2"><button type="button" id="edit">提交</button>
+					&nbsp&nbsp<button id="exit" type="button" onclick="goback();">返回</button></td>
+				</tr>
+			</tfoot>
+		</table>
+	</div>
+	</form>
+</body>
+</html>
+
+<script type="text/javascript">
+	function goback(){
+		history.back();
+	}
+</script>
